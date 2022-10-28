@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "coding pinia",
+      "isFav": true
+    },
+    {
+      "id": 2,
+      "title": "learning vue",
+      "isFav": true
+    },
+    {
+      "title": "studying css",
+      "isFav": false,
+      "id": 3
+    },
+    {
+      "title": "refreshing to mountain",
+      "isFav": true,
+      "id": 4
+    },
+    {
+      "title": "live alone",
+      "isFav": false,
+      "id": 9700
+    }
+  ]
+}
