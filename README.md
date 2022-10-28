@@ -22,6 +22,18 @@ npm install
 npm run dev
 ```
 
+### Install json-server
+
+```sh
+npm install -g json-server
+```
+
+### Run json-server
+
+```sh
+json-server -w ./data/db.json
+```
+
 ### Compile and Minify for Production
 
 ```sh
