@@ -41,4 +41,4 @@ npm run build
 ```
 
 # Reference
-All the course files for the TypeScript tutorial playlist on [The Net Ninja YouTube channel](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hp28dYyYBy3xoOdoeNw-hD).
+All the course files for the Pinia tutorial playlist on [The Net Ninja YouTube channel](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hp28dYyYBy3xoOdoeNw-hD).
