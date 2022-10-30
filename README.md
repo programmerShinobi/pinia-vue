@@ -40,5 +40,5 @@ json-server -w ./data/db.json
 npm run build
 ```
 
-# Reference
+## Reference
 All the course files for the Pinia tutorial playlist on [The Net Ninja YouTube channel](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hp28dYyYBy3xoOdoeNw-hD).
